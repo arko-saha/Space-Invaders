@@ -1,7 +1,7 @@
 
 '''
 
-The Aim is to build a space invader game using pygame module. The used resources here are open-source.
+The Aim is to learn pygame module while building a space invader game. The used resources here are open-source.
 Author: Arko Saha
 Date: 04 - 08 - 2020
 
